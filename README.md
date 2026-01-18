@@ -92,8 +92,8 @@ chatbot/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/chatbot.git
-cd chatbot
+git clone https://github.com/unforgettableg1/Chatbot.git
+cd Chatbot
 ```
 
 ### Step 2: Backend Setup
@@ -302,8 +302,8 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 
 ## Contact & Support
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: jeevankumarjeevan200@gmail.com
+- **GitHub**: [@unforgettableg1](https://github.com/unforgettableg1)
 
 ---
 
